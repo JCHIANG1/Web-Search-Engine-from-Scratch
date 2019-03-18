@@ -1,6 +1,6 @@
 ## -Web-Search-Engine-from-Scratch
 The search engine implementation contains the following components:
-#### -1. Crawler: use the breadth-first strategy to crawl 5,000 pages. For this project the crawled page start with "https://www.depaul.edu" 
+#### -1. Crawler: use the breadth-first strategy to crawl 5,000 pages. For this project I start crawling at "https://www.depaul.edu" 
 and Perform a Web traversal using the BFS strategy that only crawl HTML pages.
 #### -2. When crawling the page conduct link analysis that make sure the crawled links are (a)part of the domain, (b) (URL-)normalized, and (c)  not already traversed.
 #### -3. Index: pre-processing the text(e.g. tokenization, case folding, stopword removal) and create an inverted index structure.
