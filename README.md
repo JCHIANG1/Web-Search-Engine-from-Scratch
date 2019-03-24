@@ -2,10 +2,10 @@
 The search engine implementation contains the following components:
 
 #### -1. Crawler: 
-the crawler is implement with the breadth-first strategy started from "https://www.depaul.edu" to crawl 5,000 pages.
+the crawler is implement with the breadth-first strategy started from "https://www.depaul.edu" to crawl 5,000 pages with no duplication.
 
 #### -2. Link analysis: 
-When crawling the page make sure the crawled links are (a)part of the domain, (b) (URL-)normalized, and (c) not already traversed.
+When crawling the page make sure the crawled links are (a)part of the depaul domain, (b) (URL-)normalized, and (c) not already traversed.
 
 #### -3. Index: 
 pre-processing the text(e.g. tokenization, case folding, stopword removal) and create an inverted index structure.
