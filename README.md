@@ -1,3 +1,5 @@
+Short video for the code walk through and high level explanation of the crawler structure: https://www.youtube.com/watch?v=5JcaJYhVukk&feature=youtu.be
+
 ## -Web-Search-Engine-from-Scratch
 The search engine implementation contains the following components:
 
