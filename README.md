@@ -8,7 +8,7 @@ information and a function that given the query it will retrieve the relevant we
 
 Please refer to the comments in the notebook for detail instruction.
 
-The search engine implementation contains the following components:
+#### The search engine implementation contains the following components:
 
 #### -1. Crawler: 
 the crawler is implement with the breadth-first strategy started from "https://www.depaul.edu" to crawl 5,000 pages with no duplication.
