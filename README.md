@@ -1,6 +1,13 @@
 Short video for the code walk through and high level explanation of the crawler structure: https://www.youtube.com/watch?v=5JcaJYhVukk&feature=youtu.be
 
 ## -Web-Search-Engine-from-Scratch
+
+Description of how to run the system:
+All the code is displayed in the Jupyter Notebook format. The part1 notebook contains the code for the crawler, and the crawled 5000 webpages are saved in the pickle file. The part2 notebook first loads the crawled contents, contains a functionto return the inverted index
+information and a function that given the query it will retrieve the relevant webpage based on the cosine score in ltc, ltn schema. 
+
+Please refer to the comments in the notebook for detail instruction.
+
 The search engine implementation contains the following components:
 
 #### -1. Crawler: 
