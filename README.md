@@ -2,8 +2,7 @@ Short video for the code walk through, how to use the system and high level expl
 
 ## -Web-Search-Engine-from-Scratch
 
-All the code is displayed in the Jupyter Notebook format. The part1 notebook contains the code for the crawler, and the crawled 5000 webpages are saved in the pickle file. The part2 notebook first loads the crawled contents, contains a functionto return the inverted index
-information and a function that given the query it will retrieve the relevant webpage based on the cosine score in ltc, ltn schema. 
+All the code is displayed in the Jupyter Notebook format. The part1 notebook contains the code for the crawler, and the crawled 5000 webpages are saved in the pickle file. The part2 notebook first loads the crawled contents, provides a function to return the inverted index information and a function that retrieves the relevant webpage when a short query is given based on the cosine score in ltc, ltn schema. 
 
 Please refer to the comments in the notebook for detail instruction.
 
