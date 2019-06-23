@@ -1,4 +1,4 @@
-Short video for the code walk through, how to use the system and high level explanation of the crawler structure: https://www.youtube.com/watch?v=5JcaJYhVukk&feature=youtu.be
+This short video walks through the code, demonstrate how to use the system and give a high level explanation of the crawler structure: https://www.youtube.com/watch?v=5JcaJYhVukk&feature=youtu.be
 
 ## -Web-Search-Engine-from-Scratch
 
